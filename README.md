@@ -1,5 +1,5 @@
-Tanja Kuukkanen
 Budjettilaskuri
+Ensimmäisen opintovuoden Frontend-peruskurssilla toteutettu projekti omasta ideasta.
 
 Tein laskurin, johon voi lisätä menoja ja tuloja. Ensin lisätään kuvaus ja sen jälkeen summa. Laskuri laskee paljonko budjettia on jäljellä, kun listaan on syötetty haluamansa menot ja tulot. Jäljellä oleva bujdetti näkyy listan alapuolella.
 
